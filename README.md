@@ -8,6 +8,19 @@ $ sudo apt  install -y golang-go
 $ go version
 ```
 
+# setting
+```
+sudo vim ~/.bash_profile
+```
+
+```
+export GOPATH=$HOME/go
+```
+
+```
+source ~/.bash_profile
+```
+
 # run
 ## case1 : run
 ```
