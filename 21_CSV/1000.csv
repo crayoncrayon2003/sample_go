@@ -1,0 +1,2 @@
+ID,Name,Abstraction,Status,Description,Alternate,Terms,LikelihoodOfAttack,TypicalSeverity,RelatedAttackPatternsExecutionFlow,Prerequisites,SkillsRequiredResourcesRequired,Indicators,Consequences,Mitigations,ExampleInstances,RelatedWeaknesses,TaxonomyMappings,Notes
+1000,SampleName,Yes,Active,Description sample,,,High,Medium,,,,,,,,,,
