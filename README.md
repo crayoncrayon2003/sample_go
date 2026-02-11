@@ -12,7 +12,7 @@ $ go version
 
 # setting
 ```
-sudo vim ~/.bash_profile
+vim ~/.bashrc
 ```
 
 ```
@@ -20,7 +20,7 @@ export GOPATH=$HOME/go
 ```
 
 ```
-source ~/.bash_profile
+source ~/.bashrc
 ```
 
 # run
